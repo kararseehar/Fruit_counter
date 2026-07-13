@@ -5,4 +5,4 @@ if(fruit[i].toLowerCase() === "apple"){
     count++;
 }    
 }
-console.log(count);
+console.log("Apple quantity in cart is: ", count);
